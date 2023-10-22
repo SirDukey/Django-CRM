@@ -82,6 +82,7 @@ DATABASES = {
         'NAME': 'dcrm_db',
         'USER': 'root',
         'PASSWORD': '!QAZ2wsx#EDC',
+        # 'HOST': 'host.docker.internal',
         'HOST': 'localhost',
         'PORT': '3306',
     }
